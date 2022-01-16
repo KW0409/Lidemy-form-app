@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lidemy-form-app/static/css/main.ae3d8374.css",
+    "main.js": "/Lidemy-form-app/static/js/main.8b1f50a7.js",
+    "index.html": "/Lidemy-form-app/index.html",
+    "main.ae3d8374.css.map": "/Lidemy-form-app/static/css/main.ae3d8374.css.map",
+    "main.8b1f50a7.js.map": "/Lidemy-form-app/static/js/main.8b1f50a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae3d8374.css",
+    "static/js/main.8b1f50a7.js"
+  ]
+}
